@@ -9,6 +9,7 @@ I talk about flutter development on my <a href="https://www.youtube.com/@codewit
 - I love to cook. 🍜
 - I enjoy watching football. ⚽
 - I also play football pretty well.
+- Soothing music gets me everytime. 🎼🎧
 
 <!-- <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=maroafenogho&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
