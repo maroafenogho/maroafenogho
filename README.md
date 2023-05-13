@@ -1,6 +1,13 @@
 # 👋 Hi, I’m Maro.
 I am a lifelong learner and a <strong>Flutter</strong> developer with experience building mobile and web applications. I am a lover of Riverpod because I love clean and concise code. <br><i>Side Note: I do not hate GetX. 😀 </i>
-- I also play around with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b>GoLang</b>.
+
+## Tech stuff I work with
+- Flutter
+- Dart
+- NodeJs
+- MongoDB
+- ExpressJs
+- JavaScript
 
 I talk about flutter development on my <a href="https://www.youtube.com/@codewithmaro"> youtube </a> channel.
 <em> Please subscribe. </em> 😊
