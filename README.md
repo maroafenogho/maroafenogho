@@ -5,6 +5,8 @@ I am a lifelong learner and a <strong>Flutter</strong> developer with experience
 - Flutter
 - Dart
 - NodeJs
+- Laravel
+- MySQL
 - MongoDB
 - ExpressJs
 - JavaScript
@@ -19,9 +21,9 @@ I talk about flutter development on my <a href="https://www.youtube.com/@codewit
 - I also play football pretty well.
 - Soothing music gets me everytime. 🎼🎧
 
-<!-- <a href="">
+<a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=maroafenogho&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a/><br> -->
+<a/><br>
   
 ### Favorite Quote:
 <em> "Anyone can be anything if given the time and the opportunity" </em>
