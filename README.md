@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Maro.
-I am a lifelong learner and a <strong>Flutter</strong> developer with experience building mobile and web applications. I am a lover of Riverpod because I love clean and concise code. <br>
+I am a lifelong learner and a <strong>Flutter</strong> developer with experience building mobile and web applications.<br>
 
 ## Technologies I work with
 - Flutter
 - Dart
-- NodeJs
 - Laravel
+- NodeJs
 - MySQL
 - MongoDB
 - ExpressJs
