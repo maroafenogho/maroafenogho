@@ -4,6 +4,7 @@ I am a lifelong learner and a <strong>Flutter</strong> developer with experience
 ## Technologies I work with
 - Flutter
 - Dart
+- .NET
 - NodeJs
 - MySQL
 - MongoDB
